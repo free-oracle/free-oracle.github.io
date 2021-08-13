@@ -89,7 +89,7 @@ Table of Contents
   * [Tribuo](https://tribuo.org/) - Machine learning library written in Java
 
 ## Linux
-  * [Oracle Linux](http://yum.oracle.com/index.html) - 100% application binary compatible with Red Hat Enterprise Linux
+  * [Oracle Linux](https://yum.oracle.com/index.html) - 100% application binary compatible with Red Hat Enterprise Linux
 
 ## Serverless
   * [Fn Project](https://fnproject.io/) - open source container-native serverless platform
