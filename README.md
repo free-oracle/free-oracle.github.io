@@ -46,7 +46,7 @@ Table of Contents
       * Archive Storage - 10 GB
       * Block Volume - 2 volumes, 200 GB total
       * Object Storage - 10 GB
-    * PaaS
+    * SaaS
       * Content Management Starter Edition - 5000 assets per month.
 
     * Full, detailed list - https://www.oracle.com/cloud/free/
