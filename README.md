@@ -21,6 +21,8 @@ Table of Contents
   * [Virtualization](#virtualization)
 
 ## Cloud
+
+  * [Free OCI Training, plus free certification through Dec 31, 2021](https://education.oracle.com/learn/oracle-cloud-infrastructure/pPillar_640)
   * [Oracle Cloud Always Free Tier](https://www.oracle.com/cloud/free/)
     * Compute
       * Compute - 2 AMD based Compute VMs with 1/8 OCPU and 1 GB memory each
