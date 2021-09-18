@@ -1,8 +1,10 @@
 # Free Oracle technologies for Developers
 
-Oracle offers many free technologies to developers as part of its comprehensive product portfolio which are not always easy to find. This page aims to provide a one stop shop to list them all. And the best part, **you can help as well!** If you find a technology that is missing in this list or spot a mistake, please read the [Contributing Guide](CONTRIBUTING.md) and submit a [Pull Request](https://github.com/free-oracle/free-oracle.github.io/pulls).
+Oracle offers many free technologies to developers as part of its comprehensive product portfolio which are not always easy to find. This page provides you with a one-stop-shop list of all of them. And the best part, **you can help as well!** If you find a technology that is missing in this list or spot a mistake, please read the [Contributing Guide](CONTRIBUTING.md) and submit a [Pull Request](https://github.com/free-oracle/free-oracle.github.io/pulls).
 
 Also, if you are looking for a list of all the open source projects that Oracle contributes to, check out [opensource.oracle.com](https://opensource.oracle.com).
+
+And make sure you also head over to [developer.oracle.com/free](https://developer.oracle.com/free) for additional great free developer resoruces from Oracle.
 
 Table of Contents
 =================
