@@ -27,6 +27,8 @@ Table of Contents
     * Compute
       * Compute - 2 AMD based Compute VMs with 1/8 OCPU and 1 GB memory each
       * Compute - 4 Arm-based Ampere A1 cores and 24 GB of memory usable as one VM or up to 4 VMs
+    * Content Management
+      * Content Management Starter Edition - 5000 assets per month
     * Databases
       * Autonomous Database - 2 DBs, 20 GB each
       * NoSQL Database with 133 million reads per month, 133 million writes per month, 25 GB storage per table, up to 3 tables
@@ -48,8 +50,6 @@ Table of Contents
       * Archive Storage - 10 GB
       * Block Volume - 2 volumes, 200 GB total
       * Object Storage - 10 GB
-    * PaaS
-      * Content Management Starter Edition - 5000 assets per month.
 
     * Full, detailed list - https://www.oracle.com/cloud/free/
     * Service Availability per region - https://www.oracle.com/cloud/data-regions/
