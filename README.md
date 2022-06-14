@@ -61,6 +61,7 @@ Table of Contents
   * [MySQL Community Server](https://dev.mysql.com/) - the world's most popular open-source database
   * [NoSQL Database Community Edition](https://www.oracle.com/database/technologies/related/nosql.html) - for low latency, flexible data models and elastic scale
   * [Oracle Database Express Edition](https://oracle.com/xe) - the ideal way to get started with Oracle Database
+  * [Oracle TimesTen In-Memory Database Express Edition](https://www.oracle.com/database/technologies/related/timesten-xe.html) - the fastest in-memory database, providing horizontal scaling; can be used as a cache for Oracle Database
 
 ## Database tools
   * [Application Express (APEX)](https://apex.oracle.com/) - a low-code development platform
