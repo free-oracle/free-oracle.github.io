@@ -39,6 +39,7 @@ Table of Contents
       * Bastion service - 5 Bastions
       * Site-to-Site VPN - 50 IPSec connections
       * VCN Flow Logs - 10 GB per month (shared with Logging)
+      * Virtual Cloud Networks (VCN) - maximum of 2 VCNs, includes IPv4 and IPv6 support
     * Management
       * Monitoring - 500 million ingestion datapoints, 1 billion retrieval datapoints
       * Notifications - 1 million sent through https per month, 1000 sent through email per month
@@ -49,7 +50,11 @@ Table of Contents
     * Storage
       * Archive Storage - 10 GB
       * Block Volume - 2 volumes, 200 GB total
-      * Object Storage - 10 GB
+      * Object Storage Standard - 10 GB
+      * Object Storage Infrequent Access - 10 GB
+    * Other
+      * Email Delivery - 100 emails sent per day 
+      * 5 Private CA and 150 private TLS certificates
 
     * Full, detailed list - https://www.oracle.com/cloud/free/
     * Service Availability per region - https://www.oracle.com/cloud/data-regions/
